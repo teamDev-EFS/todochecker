@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "generator": "promptfloe",
+  "generatedAt": "2026-06-18T10:16:41.906Z",
+  "project": {
+    "name": "todochecker",
+    "framework": "react",
+    "chatId": null
+  },
+  "repo": "teamDev-EFS/todochecker",
+  "urls": {
+    "app": "https://promptfloe.com",
+    "docs": "https://docs.promptfloe.com"
+  }
+}
